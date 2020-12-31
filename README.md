@@ -8,6 +8,8 @@ From the project's description (https://hyperskill.org/projects/90?track=2):
 
 This program is run from the command line. The 'type' arguement must be specified as either 'diff' or 'annuity'. At least 3 of the following 4 arguments also must be specified: principal, payment, interest rate, or periods (number of months). See the below image for an example.
 
+![alt text](https://github.com/egarris/loan_calculator/blob/main/loan_calculator.png)
+
 Topics covered include:
 - Python basics
 - Interacting with the operating system
