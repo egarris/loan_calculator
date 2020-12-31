@@ -1,6 +1,6 @@
 # Loan Calculator
 
-This is the 5th project I completed as part of JetBrains Academy's Python Developer track. This project was aimed at beginners, so I made it a little more interesting by refactoring my code into a class.
+This is the 5th project I completed as part of JetBrains Academy's Python Developer track. This guided project asked me to create a loan calculator that can calculate differentiated and annuity payments, number of periods, the loan principal and overpayment amounts. It was aimed at beginners, so I made it a little more interesting by refactoring my code into a class.
 
 From the project's description (https://hyperskill.org/projects/90?track=2):
 
